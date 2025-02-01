@@ -1,0 +1,2 @@
+# TCRD_Framework-Traffic-Congestion-Region-Detection
+The Traffic Congestion Region Detection (TCRD) Framework is a comprehensive tool developed for identifying and analyzing traffic congestion in urban areas like Dhaka. Leveraging state-of-the-art (SOTA) YOLO models and explainable AI, this framework provides detailed insights into traffic anomalies, enhancing urban traffic management and planning.
